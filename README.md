@@ -1,14 +1,14 @@
 
 ### Hi, my name is Lucas Bielefeldt! 👋
-👩‍💻 I´m full stack developer  🌎Santa Catarina, Brazil
+👩‍💻 I´m full stack developer and i live in Santa Catarina, Brazil.	
 - 🔭 I'm currently working on personal projects to develop my learning in frontend (ReactJS) and backend (NodeJS).
 - 🌱 I’m currently learning in Rocketseat.
 
 <h2>Contact:</h2>
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/lucasbielefeldt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucasbielefeldt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucasbielefeldt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <h2>🚀 Frameworks & Library </h2>
 <div>
