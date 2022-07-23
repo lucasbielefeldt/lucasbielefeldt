@@ -1,5 +1,5 @@
 
-### 👋 Hi, my name is Lucas Bielefeldt! 
+<h2>👋 Hi, my name is Lucas Bielefeldt! </h2>
 👩‍💻 I´m full stack developer and i live in Santa Catarina, Brazil.	
 - 🔭 I'm currently working on personal projects to develop my learning in frontend (ReactJS) and backend (NodeJS).
 - 🌱 I’m currently learning in Rocketseat.
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </div>
-<h2>⭐ My GitHub Stats:</h2>
+<h2>🌟 My GitHub Stats:</h2>
 <div align="center">
   <a href="https://github.com/lucasbielefeldt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbielefeldt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
