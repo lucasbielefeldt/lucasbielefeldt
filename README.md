@@ -1,7 +1,9 @@
 
 <h2>👋 Hi, my name is Lucas Bielefeldt! </h2>
 👩‍💻 I´m a full stack developer and i live in Santa Catarina, Brazil.	
+<br>
 - 🔭 I'm currently working on personal projects to develop my learning in frontend (ReactJS) and backend (NodeJS).
+<br>
 - 🌱 I’m currently learning in Rocketseat.
 
 <h2>✉️ Contact:</h2>
